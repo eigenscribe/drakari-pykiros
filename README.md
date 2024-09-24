@@ -8,7 +8,7 @@
 - [REPL 📓](https://replnotes.com/showcase)
 - [Chat with your data](https://keptune.ai/chat/demo)
 
-====
+-----------------
 This is one of the many templates available from W3Schools. Check our [tutorials for frontend development](https://www.w3schools.com/where_to_start.asp) to learn the basics of [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) and [JavaScript](https://www.w3schools.com/js/default.asp). 🦄  
 Also check [Python](https://www.w3schools.com/python/) and [Django](https://www.w3schools.com/django/) tutorials to grasp the backend of this template.
 
